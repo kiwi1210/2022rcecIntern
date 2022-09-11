@@ -1,6 +1,7 @@
 > Code for 2022 Summer Research Internship Programme, Research Center for Environmental Changes, Academia Sinica - "Challenges and Opportunities of Agricultural Land in Taiwan under two Selected Shared Socioeconomic Pathways (SSPs)"
 
 - Data pre-processing
+  - Annual Average Cumulative Temperature -> "AnnualAvgCumulativeTmp.py"
   - Resample -> "regrid.py"
 
 - GDD increment
