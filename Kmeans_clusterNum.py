@@ -7,7 +7,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 
 # read dataframe
-df = pd.read_csv("drive/MyDrive/rcecIntern/final/final_df/df126_2020_2030.csv")
+df = pd.read_csv("rcecIntern/final/final_df/df126_2020_2030.csv")
 
 #leave only tmp_diff(i.e. GDD Increment) data
 df_lat = df.lat
